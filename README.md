@@ -1,7 +1,7 @@
 # coffee_card
 
 My first Flutter project following NetNinjas Flutter course learning the basics with a simple Coffee App
-The demo of the app: <img width="491" height="1017" alt="Image" src="https://github.com/user-attachments/assets/88e8f483-2ad0-400d-9edc-43f9f4bc00e2" />
+The demo of the app: <img width="270" height="515" alt="Image" src="https://github.com/user-attachments/assets/88e8f483-2ad0-400d-9edc-43f9f4bc00e2" />
 
 ## Getting Started
 
